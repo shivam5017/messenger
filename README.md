@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the chat application clone of Messagner 
 
-## Getting Started
+Tech Stacks :- 
 
-First, run the development server:
+1:- React
+2:- NextJs 13
+3:- Typescript
+4:- Html,css
+5:- MongoDB,Node Js
+6:- Pusher
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Some Views of Chat application :- ❤
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (159)](https://github.com/shivam5017/messenger/assets/110033165/e07aa1cb-b437-4e98-bdf3-0a84867d89f8)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Screenshot (163)](https://github.com/shivam5017/messenger/assets/110033165/6471ff08-f759-457f-8682-1e64bc9b20a8)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screenshot (165)](https://github.com/shivam5017/messenger/assets/110033165/a5663b2b-7b54-4fc3-9785-dbdf313333ba)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (166)](https://github.com/shivam5017/messenger/assets/110033165/c7945689-6d81-4799-8d49-68bda77a684a)
